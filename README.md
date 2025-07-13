@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a student at the Universidad Tecnológica del Perú, currently studying Systems Engineering. The programming languages I am proficient in are Python, Java, and JavaScript. I am interested in web design and building automation solutions for businesses.
+I am a student at the University of Technology of Peru, currently studying Systems Engineering. The programming languages I am proficient in are Python, Java, and JavaScript. I am interested in web design and building automation solutions for businesses.
 
 - 🌱 I’m currently learning:
 
